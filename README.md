@@ -11,9 +11,9 @@ Quantity of each of the 100 key products sold in 118 days is given as the traini
 # Result:
 Converges to approx. 1% Loss
 # Install Packages: 
-pip install keras
-pip install theano
-pip install tensorflow
-pip install scikit-Learn
+* pip install keras
+* pip install theano
+* pip install tensorflow
+* pip install scikit-Learn
 # Update Anaconda
 conda update -all
