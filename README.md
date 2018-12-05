@@ -16,4 +16,4 @@ Converges to approx. 1% Loss
 * pip install tensorflow
 * pip install scikit-Learn
 # Update Anaconda
-conda update -all
+conda update --all
